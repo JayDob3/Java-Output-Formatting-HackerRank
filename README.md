@@ -17,7 +17,9 @@ The second column contains the integer, expressed in exactly 3 digits; if the or
 java 100
 cpp 65
 python 50
-Sample Output
+
+
+# Sample Output
 ================================
 java           100 
 cpp            065 
